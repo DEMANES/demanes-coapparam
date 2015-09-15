@@ -1,0 +1,17 @@
+Bundle-Version: 1.0.0
+Service-Component:  \
+	*
+Private-Package:  \
+	eu.artemis.demanes.lib.impl.coapParameterization.server,\
+	eu.artemis.demanes.lib.impl.coapParameterization,\
+	org.ws4d.coap.connection,\
+	org.ws4d.coap.interfaces,\
+	org.ws4d.coap.messages,\
+	org.ws4d.coap.rest,\
+	org.ws4d.coap.tools
+Bundle-Name: COAP parameterization server
+Bundle-Description: The server bundle for using Parameterizable objects using COAP
+Bundle-Category: demanes, middleware, library
+Bundle-Copyright: TNO 2014
+Bundle-Vendor: TNO
+Bundle-ContactAddress: coen.vanleeuwen@tno.nl

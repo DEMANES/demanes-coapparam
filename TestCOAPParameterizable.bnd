@@ -1,0 +1,10 @@
+Service-Component: *
+Private-Package:  \
+	eu.artemis.demanes.test.lib.impl.coapParameterization
+Bundle-Version: 1.0.0
+Bundle-Name: Test COAP Parameterizable
+Bundle-Description: A simple bundle offering a few parameters for the COAP server
+Bundle-Category: demanes, middleware, test
+Bundle-Copyright: TNO 2014
+Bundle-Vendor: TNO
+Bundle-ContactAddress: coen.vanleeuwen@tno.nl

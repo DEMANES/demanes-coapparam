@@ -1,0 +1,10 @@
+Private-Package:  \
+	eu.artemis.demanes.lib.impl.coapParameterization,\
+	eu.artemis.demanes.lib.impl.coapParameterization.client,\
+	org.ws4d.coap.connection,\
+	org.ws4d.coap.interfaces,\
+	org.ws4d.coap.messages,\
+	org.ws4d.coap.rest,\
+	org.ws4d.coap.tools
+Service-Component:  \
+	*
